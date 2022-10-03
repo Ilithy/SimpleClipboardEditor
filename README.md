@@ -18,6 +18,10 @@ height="80">](https://f-droid.org/packages/com.trianguloy.clipboardeditor/)
 
 </div>
 
+displays the current content of your phone's clipboard.
+When that content is text, you can edit, replace, delete or perform any other text modification, live.
+Additionally, you can also share the content directly and create a notification with it for later use.
+
 <!-- ---------- Screenshots ---------- -->
 <p align="center">
 <img 
