@@ -20,7 +20,13 @@ height="80">](https://play.google.com/store/apps/details?id=com.trianguloy.clipb
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
 alt="Get it on F-Droid"
 height="80">](https://f-droid.org/packages/com.trianguloy.clipboardeditor/)
-
+[<img src="https://github.com/Ilithy/Ilithy/blob/main/Art/get-it-on-APK_Pure.png"
+alt="Get it on APK Pure"
+height="75">](https://m.apkpure.com/simple-clipboard-editor/com.trianguloy.clipboardeditor)
+<!-- --Not yet ready for public use:--
+[<img src="https://accrescent.app/badges/get-it-on.png"
+alt="Get it on Accrescent"
+height="75">](https://accrescent.com.example.app)
 
 <!-- ---------- Description ---------- -->
 
