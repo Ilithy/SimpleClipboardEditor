@@ -68,6 +68,8 @@ Feel free to **suggest changes**, create [**issues**](https://github.com/Triangu
 Simple Clipboard Editor is already translated in English, French and Spanish \
 Do not hesitate to **check** and **update** the [**pre-existing translations**](https://github.com/TrianguloY/SimpleClipboardEditor/tree/master/app/src/main/res).
 
+See [**CONTRIBUTING**](CONTRIBUTING.md) for code or translation details and tips.
+
 <!-- ---------- License ---------- -->
 
 ## License
