@@ -20,7 +20,6 @@ height="80">](https://f-droid.org/packages/com.trianguloy.clipboardeditor/)
 
 <!-- ---------- Screenshots ---------- -->
 <p align="center">
-
 <img 
     src="./app/src/main/play/listings/en-US/graphics/phone-screenshots/1-dialog.png" 
     height="400"> 
@@ -36,7 +35,6 @@ height="80">](https://f-droid.org/packages/com.trianguloy.clipboardeditor/)
 <img 
     src="./app/src/main/play/listings/en-US/graphics/phone-screenshots/5-notification.png" 
     height="400">
-
 </p>
 </div>
 
