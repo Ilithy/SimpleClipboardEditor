@@ -64,7 +64,7 @@ Additionally, you can also share the content or create notification with it for 
 **All help is greatly welcomed!**  
 Feel free to **suggest changes**, create [**issues**](https://github.com/TrianguloY/SimpleClipboardEditor/issues/new) or even [**pull request**](https://help.github.com/articles/about-pull-requests/). 
 
-**Translations are also greatly appreciated.**
+**Translations are also greatly appreciated.** \
 Simple Clipboard Editor is already translated in English, French and Spanish \
 Do not hesitate to **check** and **update** the [**pre-existing translations**](https://github.com/TrianguloY/SimpleClipboardEditor/tree/master/app/src/main/res).
 
