@@ -4,6 +4,7 @@
 # Simple Clipboard Editor
 ### Android app made by [TrianguloY](https://github.com/TrianguloY)
 
+<!-- ---------- Badges ---------- -->
 
 [![App-Code Size](https://img.shields.io/github/languages/code-size/trianguloy/SimpleClipboardEditor.svg?label=Code%20size)](https://api.github.com/repos/TrianguloY/SimpleClipboardEditor)
 [![GitHub last commit](https://img.shields.io/github/last-commit/TrianguloY/SimpleClipboardEditor)](https://github.com/TrianguloY/SimpleClipboardEditor/commits)
