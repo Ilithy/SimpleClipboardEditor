@@ -16,11 +16,14 @@ height="80">](https://play.google.com/store/apps/details?id=com.trianguloy.clipb
 alt="Get it on F-Droid"
 height="80">](https://f-droid.org/packages/com.trianguloy.clipboardeditor/)
 
-</div>
 
-displays the current content of your phone's clipboard.
-When that content is text, you can edit, replace, delete or perform any other text modification, live.
-Additionally, you can also share the content directly and create a notification with it for later use.
+<!-- ---------- Description ---------- -->
+
+**Simple Clipboard Editor** displays the current content of your phone's clipboard. \
+When that content is text, you can edit, replace, delete or perform any other text modification directly. \
+Additionally, you can also share the content or create notification with it for later use.
+
+</div>
 
 <!-- ---------- Screenshots ---------- -->
 <p align="center">
@@ -42,6 +45,13 @@ Additionally, you can also share the content directly and create a notification 
 </p>
 </div>
 
+<!-- ---------- Contribution ---------- -->
+## Contribution
+
+**All help is greatly welcomed!**  
+Feel free to **suggest changes**, create [**issues**](https://github.com/TrianguloY/SimpleClipboardEditor/issues/new) or even [**pull request**](https://help.github.com/articles/about-pull-requests/). 
+
+**Translations are also greatly appreciated.**
 
 <!-- ---------- License ---------- -->
 
