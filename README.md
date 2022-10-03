@@ -32,7 +32,7 @@ height="75">](https://accrescent.com.example.app) -->
 
 **Simple Clipboard Editor** displays the current content of your phone's clipboard. \
 When that content is text, you can edit, replace, delete
-or perform any other text modification directly.
+or perform any other text modification directly. \
 Additionally, you can also share the content or create notification with it for later use.
 
 </div>
